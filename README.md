@@ -1,16 +1,16 @@
-## Hi there 👋
+BEM VINDO AO MEU PERFIL
 
-<!--
-**Leticinha23/leticinha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leticinha
 
-Here are some ideas to get you started:
+Estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou cursando o ensino médio
+
+Utilizo esse perfil para me organizar 
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 
+
+00001095920625sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/AlNzo08uVWwAAAAC/hugs-love.gif)
+  
